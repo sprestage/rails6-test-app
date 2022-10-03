@@ -1,5 +1,5 @@
 databases:
-  - name: rails6-test-app
+  - name: rails6-test-db
     databaseName: rails6_test_app_production
     user: rails6_test_app
 
